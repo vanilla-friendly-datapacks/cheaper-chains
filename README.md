@@ -20,6 +20,4 @@ The datapack doesn't create new scoreboards or new entities and thus an `uninsta
 
 The data pack is licensed under the GPLv3. For more information, take a look at the license file within this repository.
 
-## Inspiration
-
 [latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
