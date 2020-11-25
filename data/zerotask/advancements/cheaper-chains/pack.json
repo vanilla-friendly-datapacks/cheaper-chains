@@ -6,12 +6,12 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": "",
+    "description": "It's only decoration!",
     "icon": {
-      "item": ""
+      "item": "minecraft:chain"
     },
     "show_toast": false,
-    "title": ""
+    "title": "Cheaper Chains"
   },
   "parent": "global:zerotask"
 }

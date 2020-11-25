@@ -1,16 +1,20 @@
-# Projectname
+# Cheaper Chains
 
-> A Minecraft 1.16.x data pack that
+> A Minecraft 1.16+ data pack that makes chains cheaper (3 iron nuggets).
 
 ## Installation
 
-Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world. Download the resourcepack zip file (if available) and enable the pack in your client.
-
-I usually provide resourcepacks to allow translations of my datapacks :)
+Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world.
 
 ## Crafting
 
-## FAQ
+<div align="center">
+    <img src=".github/recipe.png" alt="drawing" width="500"/>
+</div>
+
+## Uninstallation
+
+The datapack doesn't create new scoreboards or new entities and thus an `uninstall` function is not needed.
 
 ## License
 
