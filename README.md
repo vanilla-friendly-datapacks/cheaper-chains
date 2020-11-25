@@ -1,6 +1,6 @@
 # Cheaper Chains
 
-> A Minecraft 1.16+ data pack that makes chains cheaper (3 iron nuggets).
+> A Minecraft 1.16.2+ data pack that makes chains cheaper (3 iron nuggets).
 
 ## Installation
 
